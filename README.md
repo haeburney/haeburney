@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hae%20burney&animaion=fadeIn&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=300&fontColor=7092be)
+![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=300&color=7092be)
 
 ### Hi there 👋
 
