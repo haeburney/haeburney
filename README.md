@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=300&color=7092be&fontSize=40)
+![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=300&color=7092be&fontSize=70)
 
 ### Hi there 👋
 
