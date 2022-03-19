@@ -13,11 +13,13 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaeburney&count_bg=%237092BE&title_bg=%2355555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) !-->
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hanttak0927)](https://solved.ac/hanttak0927) </div>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hanttak0927)](https://solved.ac/hanttak0927) </div><br><br><br><br>
 
-<br><br>
+
+***
+<br><br><br><br><div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeburney&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord)</div>
 
 <!--
 **haeburney/haeburney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
