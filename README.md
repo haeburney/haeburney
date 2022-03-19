@@ -17,9 +17,9 @@
 
 
 ***
-<br><br><br><br><div align="center">
+<br><br><br><br><p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeburney&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord)</p>
 
 <!--
 **haeburney/haeburney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
