@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=300&color=7092be&fontSize=70)
-
-<br><br><h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<br><br><h3 align="center"><b>👋 Hi! there!</b></h3><br>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center"> 
 <img src="https://img.shields.io/badge/C-004482?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
