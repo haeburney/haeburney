@@ -2,7 +2,7 @@
 <br><br><h3 align="center"><b>👋 Hi! there!</b></h3><br><br>
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dovnaldisn)](https://velog.io/@dovnaldisn)  !-->
-<p align="center">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dovnaldisn)](https://github.com/dovnaldisn/velog-readme-stats)</p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dovnaldisn)](https://github.com/dovnaldisn/velog-readme-stats)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
