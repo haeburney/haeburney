@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=300&color=7092be&fontSize=70)
 <br><br><h3 align="center"><b>👋 Hi! there!</b></h3><br><br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dovnaldisn)](https://velog.io/@dovnaldisn) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/dovnaldisn/hi)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center"> 
