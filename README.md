@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=200&color=7092be&fontSize=50)
-<br><br><h3 align="center"><b>👋 Hi! there!</b></h3><br><br>
+<br><br><h3 align="center"><b>👋 Hi! there!</b></h3>
+#
 
 <div align="center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dovnaldisn)](https://github.com/dovnaldisn/velog-readme-stats)<br><br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dovnaldisn)](https://github.com/dovnaldisn/velog-readme-stats)<br><br><br>
 </div>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -16,12 +17,12 @@
 <img src="https://img.shields.io/badge/Java-007376?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
 </p> <br><br>
 
 
-#
+
 <br><br><p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeburney&show_icons=true&theme=nord)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord) !--> </p> <br><br><br>
