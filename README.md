@@ -43,9 +43,12 @@
 
 <br><br><p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeburney&show_icons=true&theme=nord)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord) !--> </p> <br><br><br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeburney&layout=compact&theme=nord) !--> </p> <br>
 
+<div align="center">
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaeburney&count_bg=%237092BE&title_bg=%23727272&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 <!--
 **haeburney/haeburney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
