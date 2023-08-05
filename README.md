@@ -6,7 +6,11 @@
 
 <div align="center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dovnaldisn)](https://github.com/dovnaldisn/velog-readme-stats)<br><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanttak0927)](https://solved.ac/hanttak0927)
+
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dovnaldisn)](https://github.com/dovnaldisn/velog-readme-stats) -->
+
+<br><br><br>
 </div>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
