@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=haeburney&animation=fadeIn&height=200&color=7092be&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+haeburney's+GitHub+👋&animation=fadeIn&height=200&color=7092be&fontSize=40)
 <br><br><h3 align="center"><b>👋 Hi! there!</b></h3>
 <br/>
   
